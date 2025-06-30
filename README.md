@@ -2,6 +2,8 @@
 
 [![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)](https://nodemailer.com/about/)
 
+[Learn to send emails in NodeJs with Nodemailer](https://www.sevensquaretech.com/how-to-send-emails-nodejs-nodemailer/)
+
 Send emails from Node.js – easy as cake! 🍰✉️
 
 [![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&downloadRank=true&stars=true)](https://nodemailer.com/about/)
